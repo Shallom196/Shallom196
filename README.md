@@ -1,7 +1,6 @@
 
 👋 Hi, I am Shallom.
-    I am on a journey to build a life centered around Code, Building and Problem Solving.
-
+    I am on a journey to build a life centered around data, code and problem solving.
 
 
 
